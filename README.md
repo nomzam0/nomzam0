@@ -6,7 +6,8 @@ I'm Nomzamo Mnguni. I'm currently doing my final year at UCT, majoring in Comput
 - 💬 Ask me about Python, Java, and C++. You can also ask me about data structures, algorithms, computer networks and operating systems.
 - 📫 How to reach me: zinhlenomzamo76@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Everything that I wrote above is a lie.
+- ⚡ Fun fact: 
+
 
 
 
